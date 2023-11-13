@@ -1,0 +1,93 @@
+/*Style for body of the webpage*/
+body{
+    background-color: rgb(247, 247, 208);
+}
+/*Style for contact container*/
+.contact-container {
+    display: flex;
+    align-items: center;
+    border: 6px solid black;
+}
+/*Style for contact details container*/
+.contact-details {
+    flex: 1;
+    padding: 10px;
+    text-align: center;
+}
+/*Style for the heading in the contact details container*/
+.contact-details h1{
+    font-size: 40px;
+}
+/*Style for the subheading in the contact details container*/
+.contact-details h2{
+    font-size: 30px;
+}
+/*Style for the anchor tag in the contact details container*/
+.contact-details a{
+    font-size: 25px;
+}
+/*Style for the contact image container*/
+.contact-image {
+    flex: 0;
+    padding-left: 10px;
+    padding-right: 80px;
+}
+/*Style for the contact image*/
+.contact-image img{
+    width: 550px;
+}
+/*Style for the paragraph in the who container*/
+.who-container p{
+    font-size: 25px;
+}
+/*Style for the paragraph in the what container*/
+.what-container P{
+    font-size: 25px;
+}
+/*Style for the paragraph in the like container*/
+.like-container p{
+    font-size: 25px;
+}
+/*Style for skills container*/
+.skills-container{
+    border: 6px solid black;
+}
+/*Style for the heading in the skills container*/
+.skills-container h1{
+    text-align: center;
+    font-size: 40px;
+}
+/*Style for education container*/
+.education-container{
+    border: 6px solid black;
+}
+/*Style for the heading in the education container*/
+.education-container h1{
+    text-align: center;
+    font-size: 40px;
+}
+/*Style for the subheading in the education container*/
+.education-container h2{
+    font-size: 30px;
+}
+/*Style for the h3 subheading in the education container*/
+.education-container h3{
+    font-size: 20px;
+}
+/*Style for work container*/
+.work-container{
+    border: 6px solid black;
+}
+/*Style for the heading in the work container*/
+.work-container h1{
+    text-align: center;
+    font-size: 40px;
+}
+/*Style for the subheading in the work container*/
+.work-container h2{
+    font-size: 30px;
+}
+/*Style for the h3 subheading in the work container*/
+.work-container h3{
+    font-size: 20px;
+}
