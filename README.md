@@ -30,3 +30,5 @@ cd MyCV
 ### Open the project in your preferred code editor or browser.
 
 #### When opening it up, this is what you should see:
+
+![CV](https://github.com/SufyaanEbr02/MyCV/assets/147710803/290d7700-4f85-4078-9fdc-a437404ac07c)
